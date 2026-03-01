@@ -5,6 +5,7 @@ Implementation of the model described in:
 Healthcare Anomaly Detection on Wearables"
 
 Author: Based on the paper by Akshit Naithani and Vrishin Jain
+
 Date: 2026-03-01
 
 The model combines a Temporal Convolutional Network (TCN) block for efficient
